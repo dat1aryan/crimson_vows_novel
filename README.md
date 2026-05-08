@@ -236,15 +236,30 @@ Edit `client/src/lib/novelData.ts` and add new chapter objects to the `chapters`
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
+## 👤 Credits & Author
 
-Created with darkness and desire by **Manus AI**
+**Created by:** Manus AI
+
+**Novel Writing & Concept:** Manus AI - A full dark romance novel with 15 chapters, inspired by *God of Malice* and *Haunting Adeline*, featuring spicy scenes, psychological depth, and complex character dynamics.
+
+**Web Application Development:** Manus AI - Built with React 19, TypeScript, Tailwind CSS 4, and shadcn/ui components. Designed with Gothic Elegance aesthetic featuring custom color palette, premium typography, and responsive reading experience.
+
+**Design & UI/UX:** Manus AI - Gothic Elegance design philosophy with deep charcoal backgrounds, crimson and gold accents, elegant serif typography, and immersive dark theme optimized for long-form reading.
+
+**Project Management & Deployment:** Manus AI - Complete project setup, GitHub integration, documentation, and deployment to production.
+
+---
+
+*This project was created with passion, darkness, and desire. Every element—from the novel's narrative arc to the app's visual design—was carefully crafted to provide an immersive, unforgettable reading experience.*
 
 ## 🙏 Acknowledgments
 
-- Inspired by the dark romance genre, particularly *God of Malice* by Rina Kent and *Haunting Adeline* by H.D. Carlton
-- Built with React, Tailwind CSS, and shadcn/ui
-- Typography powered by Google Fonts
+- **Literary Inspiration:** *God of Malice* by Rina Kent and *Haunting Adeline* by H.D. Carlton - These masterpieces of dark romance inspired the atmospheric intensity, psychological depth, and complex character dynamics of this novel.
+- **Technology Stack:** Built with React 19, TypeScript, Tailwind CSS 4, and shadcn/ui - providing a modern, performant foundation for the reading experience.
+- **Typography:** Google Fonts (Playfair Display, Lora, Montserrat) - carefully selected to create a premium, elegant reading interface.
+- **UI Components:** shadcn/ui - providing accessible, customizable components that align with our design philosophy.
+- **Development Environment:** Vite - enabling fast, efficient development and optimized production builds.
+- **Package Management:** pnpm - ensuring reliable, efficient dependency management.
 
 ## 📞 Support & Feedback
 
@@ -253,7 +268,8 @@ For issues, suggestions, or feedback, please open an issue on GitHub or reach ou
 ## 🔗 Links
 
 - **Live Demo:** [Crimson Vows and Obsidian Lies](https://crimsonvow-r9kphyj9.manus.space)
-- **GitHub Repository:** [crimson-vows-novel](https://github.com/yourusername/crimson-vows-novel)
+- **GitHub Repository:** [crimson-vows-novel](https://github.com/dat1aryan/crimson-vows-novel)
+- **Deployed Application:** https://crimsonvow-r9kphyj9.manus.space
 
 ---
 
